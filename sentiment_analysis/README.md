@@ -6,7 +6,7 @@ Text Classification is a process involved in Sentiment Analysis. It is classific
 ![alt text](https://github.com/rajuzumaki2207/NLP_Projects/blob/master/sentiment_analysis/SENTIMENT.jpg)
 
 
-##1. About data
+## 1. About data
 This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .
 
 Content
