@@ -4,6 +4,8 @@ See code: (https://github.com/rajuzumaki2207/NLP_Projects/blob/master/sentiment_
 Text Classification is a process involved in Sentiment Analysis. It is classification of peoples opinion or expressions into different sentiments. Sentiments include Positive, Neutral, and Negative, Review Ratings and Happy, Sad. Sentiment Analysis can be done on different consumer centered industries to analyse people's opinion on a particular product or subject.
 
 ![alt text](https://github.com/rajuzumaki2207/NLP_Projects/blob/master/sentiment_analysis/SENTIMENT.jpg)
+
+
 ##1. About data
 This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 4 = positive) and they can be used to detect sentiment .
 
